@@ -1,0 +1,23 @@
+{
+  "name": "dev-log",
+  "version": "1.0.0",
+  "description": "Missed console.log functionality",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nkt/node-dev-log.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "logging",
+    "dump",
+    "debug"
+  ],
+  "author": "Nikita Gusakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkt/node-dev-log/issues"
+  },
+  "homepage": "https://github.com/nkt/node-dev-log"
+}
